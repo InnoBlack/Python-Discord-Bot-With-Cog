@@ -2,7 +2,7 @@ ilist = []
 
 
 import os
-os.system("title Discord L0gic Bot Maker - [DLBM] by lmao4745")
+os.system("title Discord Bot")
 
 try:
     import discord
